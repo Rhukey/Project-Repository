@@ -4,11 +4,18 @@
 
 ![alt text](<Images/Sudo apt update.png>)
 
+
+
+
+
 # `pwd`
 
  ## "pwd" simply means print working directory, it allows one view the current directory.  It prints the path of the working directory, starting from the root. pwd is shell built-in command(pwd) or an actual binary(/bin/pwd). $PWD is an environment variable that stores the path of the current directory
 
 ![alt text](Images/pwd.png)
+
+
+
 
 # `cd`
 
