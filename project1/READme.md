@@ -24,4 +24,15 @@
 ![alt text](<Images/cd command.png>)
 
 
+# `ls`
+## The ls command lists files and directories within the file system, and shows detailed information about them. It is a part of the GNU core utilities package which is installed on all Linux distributions. The ls command has a lot of syntax like ls-a, ls-lh, ls-R, ls-ltr etc which all have different functions and meanings.
+
+
+![alt text](Images/ls-a.png)
+
+![alt text](Images/ls.png)
+
+
+
+
 
