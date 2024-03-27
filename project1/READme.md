@@ -39,7 +39,7 @@
 ![alt text](<Images/cat command.png>)
 
 
-#`cp`
+# `cp`
 ## The cp is a command-line utility for copying files and directories on Unix and Linux systems.There are different syntax to cp command,we have cp -R, etc.
 
 
