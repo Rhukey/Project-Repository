@@ -32,6 +32,15 @@
 
 ![alt text](Images/ls.png)
 
+# `cat`
+## The cat command is one of the most widely used commands in Linux. The name of the cat command comes from its functionality to concatenate files. It can read, concatenate, and write file contents to the standard output. If no file is specified or the input file name is specified as a single hyphen (-), it reads from the standard input. Cat is most commonly used to display the contents of one or multiple text files, combine files by appending one file’s contents to the end of another file, and create new files. To run the command in the snapshot we need to create a file name tech4dev.sh on my linux terminal.
+
+
+![alt text](<Images/cat command.png>)
+
+
+
+
 
 
 
