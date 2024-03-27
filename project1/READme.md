@@ -52,7 +52,11 @@
 ![alt text](<Images/mv command.png>)
 
 
+# `mkdir`
+## The "mkdir" command is to make directories, To create a directory in Linux, pass the directory’s name as the argument to the mkdir command. For example, to create a new directory newdir, you would run the following command: "mkdir newdir"
 
+
+![alt text](Images/mkdir.png)
 
 
 
