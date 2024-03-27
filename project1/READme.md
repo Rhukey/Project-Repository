@@ -45,6 +45,12 @@
 
 ![alt text](<Images/cp command.png>)
 
+# `mv`
+##  The mv command has 2 major function:moving files and renaming files. The mv command (short from move) is used to rename and move and files and directories from one location to another. The syntax for the mv command is as follows: mv [OPTIONS] SOURCE DESTINATION
+
+
+![alt text](<Images/mv command.png>)
+
 
 
 
