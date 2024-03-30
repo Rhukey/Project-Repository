@@ -58,6 +58,11 @@
 
 ![alt text](Images/mkdir.png)
 
+# `rmdir`
+## The "rmdir" command is to use delete folders in Linux command line.
+
+![alt text](<Images/rmdir command.png>)
+
 
 
 
