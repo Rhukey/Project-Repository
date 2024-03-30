@@ -93,7 +93,7 @@
 
 # `locate`
 
-## Locate command in Linux is used to find the files by name. There are two most widely used file-searching utilities accessible to users called to find and locate. The locate utility works better and faster than the find command counterpart because instead of searching the file system when a file search is initiated, it would look through a database. To locate a file, you need to run the command locate "filename". The command wasn't working so i had to run the command "sudo apt install plocator" first 
+## Locate command in Linux is used to find the files by name. There are two most widely used file-searching utilities accessible to users called to find and locate. The locate utility works better and faster than the find command counterpart because instead of searching the file system when a file search is initiated, it would look through a database. To locate a file, you need to run the command locate "filename". The command wasn't working so i had to run the command "sudo apt install plocate" first 
 
 
 ![alt text](<Images/locate command.png>)
