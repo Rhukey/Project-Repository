@@ -99,7 +99,68 @@
 ![alt text](<Images/locate command.png>)
 
 
+# `find`
 
+## The "find" command in Linux is a dynamic utility designed for comprehensive file and directory searches within a hierarchical structure. Its adaptability allows users to search by name, size, modification time, or content, providing a flexible and potent solution.
+
+
+![alt text](<Images/find command.png>)
+
+
+
+# `grep`
+
+## "grep" is a command-line utility that searches for a specific text string in one or more files. It looks for the pattern in each line of the file and prints out the lines that match it. It is a powerful tool for searching and analyzing large amounts of text data quickly and efficiently
+
+
+![alt text](<Images/grep command.png>)
+
+
+# `df`
+
+## The df command is used to get a detailed report on the system’s disk space usage. To display information about disk drives in human-readable format (kilobytes, megabytes, gigabytes and so on), invoke the df command with the -h option
+
+
+![alt text](<Images/df-h command.png>)
+
+
+# `du` command 
+
+## du command short for “disk usage” reports the estimated amount of disk space used by given files or directories. It is practically useful for finding files and directories taking up large amounts of disk space.
+
+
+![alt text](<Images/du command.png>)
+
+
+# `head`
+
+## "head" command The head command does the opposite of what the tail command does. It shows the starting content of a file, while the tail command prints the ending lines of a file. By default, head displays the first 10 lines. If you want to print more or less than 10 lines, just use the -n option. Similarly, the -c option with the head command can restrict the output to a particular byte number. The head command can analyze logs and other text files that are subject to vary over time. You can use the head command in conjunction with other commands for selective, real-time monitoring.
+
+
+![alt text](<Images/head command.png>)
+
+
+# `tail`
+
+## tail command is the complementary of head command. The tail command, as the name implies, prints the last N number of data of the given input. By default, it prints the last 10 lines of the specified files. If more than one file name is provided then data from each file is preceded by its file name.
+
+
+![alt text](<Images/tail command.png>)
+
+# `diff`
+
+## "diff" command is used to compare files, line by line and it is crucial for identifying differences, debugging code, and ensuring the integrity of data.
+
+
+![alt text](<Images/diff command.png>)
+
+
+# `tar`
+
+## tar command stands for tape archive, which is used to create Archive and extract the Archive files. tar command in Linux is one of the important commands that provides archiving functionality in Linux. We can use the Linux tar command to create compressed or uncompressed Archive files and also maintain and modify them.
+
+
+![alt text](<Images/tar command.png>)
 
 
 
