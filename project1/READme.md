@@ -215,6 +215,16 @@
 #![alt text](<Images/wget command.png>)
 
 
+# `uname`
+
+## The uname (derived from "UNIX name") is a simple command that you can run without any special permission to output basic information about the operating system and hardware platform of your Linux computer. For example, You can use the uname command for troubleshooting, checking system upgrades, scripting, and monitoring purposes. You can also check the kernel release details, Linux kernel version, and hardware architecture (32-bit or 64-bit).
+
+![alt text](<Images/uname command.png>)
+
+
+
+
+
 
 
 
