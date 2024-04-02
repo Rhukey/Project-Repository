@@ -182,5 +182,33 @@
 
 
 
+# `jobs`
+
+##  Jobs command is used to list the jobs that you are running in the background and in the foreground. If the prompt is returned with no information no jobs are present. All shells are not capable of running this command. 
+
+
+![alt text](<Images/job command.png>)
+
+
+# `kill`
+
+## kill command in Linux (located in /bin/kill), is a built-in command which is used to terminate processes manually. kill command sends a signal to a process that terminates the process. If the user doesn’t specify any signal that is to be sent along with the kill command, then a default TERM signal is sent that terminates the process.
+
+
+![alt text](<Images/kill command.png>)
+
+
+
+# `ping`
+
+## The ping (Packet Internet Groper) command is used to check the network connectivity between the host and server/host. This command takes as input the IP address or the URL and sends a data packet to the specified address with the message “PING” and gets a response from the server/host this time is recorded which is called latency. Fast ping with low latency means a faster connection. Ping uses ICMP(Internet Control Message Protocol) to send an ICMP echo message to the specified host if that host is available then it sends an ICMP reply message. Ping is generally measured in milliseconds every modern operating system has this ping pre-installed.
+
+
+![alt text](<Images/ping command.png>)
+
+
+
+
+
 
 
