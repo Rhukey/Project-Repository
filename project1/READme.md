@@ -208,6 +208,18 @@
 
 
 
+# `wget`
+
+## wget is a command-line utility for downloading files from the web. With Wget, you can download files using HTTP, HTTPS, and FTP protocols. Wget provides a number of options allowing you to download multiple files, resume downloads, limit the bandwidth, recursive downloads, download in the background, mirror a website, and much more.
+
+#![alt text](<Images/wget command.png>)
+
+
+
+
+
+
+
 
 
 
