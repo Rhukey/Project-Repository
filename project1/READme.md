@@ -222,6 +222,15 @@
 ![alt text](<Images/uname command.png>)
 
 
+# `top`
+
+## top command is used to show the Linux processes. It provides a dynamic real-time view of the running system. Usually, this command shows the summary information of the system and the list of processes or threads which are currently managed by the Linux Kernel. As soon as you will run this command it will open an interactive command mode where the top half portion will contain the statistics of processes and resource usage. And Lower half contains a list of the currently running processes. Pressing q will simply exit the command mode.
+
+
+![alt text](<Images/top command.png>)
+
+
+
 
 
 
