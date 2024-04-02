@@ -164,3 +164,23 @@
 
 
 
+# `chmod`
+
+# The `chmod` command is used to modify this permission so that it can grant or restrict access to directories and files.  The name is an abbreviation of change mode. Which states that every file and directory has a set of permissions that control the permissions like who can read, write or execute the file. In this the permissions have three categories: read, write, and execute simultaneously represented by `r`, `w` and `x`. These letters combine together to form a specific permission for a group of users.
+
+
+
+![alt text](<Images/chmod command.png>)
+
+
+# `chown`
+
+## The `chown` command, short for “change owner,” is a powerful tool that allows users to change the owner of files and directories. This command is particularly useful in scenarios where administrators need to grant or revoke access to specific resources.
+
+
+![alt text](<Images/chown command.png>)
+
+
+
+
+
