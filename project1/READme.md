@@ -295,6 +295,19 @@
 ![alt text](<Images/vi command .png>)
 
 
+# `alias` and `unalias`
+
+## an alias is a user-defined shorthand for a longer command or sequence of commands. These aliases can be created and customized according to user preferences, making the command-line interface more user-friendly. alias command instructs the shell to replace one string with another string while executing the commands. 
+
+## The unalias command is used to eliminate items from the list of aliases for the current user, specifically those added during the current login session. Permanent aliases may also be temporarily suppressed; however, they will be restored once the user logs in again.
+
+
+## ![alt text](<Images/alias and unalias command.png>)
+
+
+
+
+
 
 
 
