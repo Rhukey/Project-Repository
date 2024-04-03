@@ -305,6 +305,12 @@
 ## ![alt text](<Images/alias and unalias command.png>)
 
 
+# `su`
+
+## su The su (short for substitute or switch user) utility allows you to run commands with another user’s privileges, by default the root user. Using su is the simplest way to switch to the administrative account in the current login session. This is especially handy when the root user is not allowed to log in to the system through ssh or using the GUI display manager.
+
+![alt text](<Images/su command.png>)
+
 
 
 
