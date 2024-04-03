@@ -262,6 +262,14 @@
 ![alt text](<Images/hostname command.png>)
 
 
+# `useradd`, `userdel` 
+
+## useradd is a command in Linux that is used to add user accounts to your system. It is just a symbolic link to adduser command in Linux and the difference between both of them is that useradd is a native binary compiled with the system whereas adduser is a Perl script that uses useradd binary in the background.
+
+## userdel command in Linux system is used to delete a user account and related files. This command basically modifies the system account files, deleting all the entries which refer to the username LOGIN. It is a low-level utility for removing the users. The userdel command is a standard utility in Linux that allows administrators to delete user accounts from the system. 
+
+
+![alt text](<Images/useradd, userdel command.png>)
 
 
 
