@@ -246,6 +246,26 @@
 ![alt text](<Images/man command.png>)
 
 
+# `echo`
+
+## The echo command in Linux is a built-in command that allows users to display lines of text or strings that are passed as arguments. It is commonly used in shell scripts and batch files to output status text to the screen or a file.
+
+
+![alt text](<Images/echo command.png>)
+
+
+# `hostname`
+
+## hostname command in Linux is used to obtain the DNS (Domain Name System) name and set the system’s hostname or NIS (Network Information System) domain name. A hostname is a name given to a computer and attached to the network. Its main purpose is to uniquely identify over a network.
+
+
+![alt text](<Images/hostname command.png>)
+
+
+
+
+
+
 
 
 
