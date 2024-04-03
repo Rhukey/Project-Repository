@@ -238,6 +238,12 @@
 
 
 
+# `man`
+
+## The “man” command, short for manual, is a powerful tool in the Linux operating system that allows users to access detailed information about various commands, utilities, and system calls. The “man” command provides comprehensive documentation, helping users understand how to use and configure different elements of the Linux environment. 
+
+
+![alt text](<Images/man command.png>)
 
 
 
