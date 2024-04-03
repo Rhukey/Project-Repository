@@ -319,7 +319,12 @@
 ![alt text](Images/htop.png)
 
 
+# `ps`
 
+## The `ps` command, which stands for “process status,” is like a computer tool that helps you see what’s happening inside your Linux computer. Imagine your computer is doing several things simultaneously, like running different programs or apps. These are the processes and the `ps` command lets you take a quick look at them. When you use it without any special instructions, it shows you the processes that are connected to the window or screen you are currently using. But here’s where it gets interesting: you can make the ps command show you exactly what you want to know by giving it special instructions, called options. These options let you customize the information you see, like finding out which programs are using the most computer power or checking what a specific user is doing. So, while it can give you a basic overview, the ps command’s real strength is in letting you choose exactly what details you want to see about the processes on your computer.
+
+
+![alt text](<Images/ps command.png>)
 
 
 
