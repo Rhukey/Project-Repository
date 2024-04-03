@@ -279,6 +279,23 @@
 ![alt text](<Images/apt-get command.png>)
 
 
+# `nano`
+
+## nano is a user-friendly, simple and WYSIWYG(What You See Is What You Get) text editor, which improves the features and user-friendliness of UW Pico text editor. Unlike vim editor or any other command-line editor, it doesn’t have any mode. It has an easy GUI(Graphical User Interface) which allows users to interact directly with the text in spite of switching between the modes as in vim editor.
+
+![alt text](<Images/nano command.png>)
+
+
+
+# `vi`
+
+## vi is an interactive text editor that is display-oriented: the screen of your terminal acts as a window into the file you are editing. Changes you make to the file are reflected in what you see.Using vi you can insert text anywhere in the file very easily. Most of the vi commands move the cursor around in the file. You can move the cursor forward and backward in units of characters, words, sentences, and paragraphs. Some of the operators, like d for delete and c for change, can be combined with the motion commands to make them operate on entire words, paragraphs, etc., in a natural way.
+
+
+![alt text](<Images/vi command .png>)
+
+
+
 
 
 
